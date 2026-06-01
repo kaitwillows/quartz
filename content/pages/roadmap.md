@@ -1,6 +1,6 @@
 ---
 created: 2026-05-01T14:50
-updated: 2026-05-27T16:11
+updated: 2026-06-01T11:25
 tags:
   - pages
 ---
@@ -11,7 +11,7 @@ there might be a better way to automate this, for when i forget to update it man
 ***
 
 # ideas
-- ==\*\*== [[posts/the first kaitwillows album|the first kaitwillows album]]
+- ==\*\*== [[posts/the first kaitwillows album (2012)|the first kaitwillows album (2012)]]
 - [the skooby song](https://youtube.com/shorts/-8SKYhHxTTY?si=uHL1JOlDRq9Nn3_a) (first shows up at 0:12, i just wanna transcribe it, it sounds so pure?)
 
 # in-progress

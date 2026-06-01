@@ -13,27 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/parksville.md",
+                "file": "posts/cyberlucifolium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "parksville"
+              "title": "cyberlucifolium"
             }
           },
           {
             "id": "94c2f1d3b8999607",
             "type": "leaf",
             "state": {
-              "type": "audio",
+              "type": "markdown",
               "state": {
-                "file": "media/2025-10-01_parksville/demos/1.0 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.mp3"
+                "file": "posts/the first kaitwillows album (2012).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-audio",
-              "title": "1.0 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+              "icon": "lucide-file",
+              "title": "the first kaitwillows album (2012)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#song  ",
+                "query": "tag:album/debut",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/parksville.md",
+                "file": "test'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for parksville"
+              "title": "Backlinks for test'"
             }
           },
           {
@@ -193,15 +197,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "df764bdc75882ccf",
+  "active": "b22eacc8d06fcd03",
   "lastOpenFiles": [
-    "posts/cyberlucifolium.md",
+    "posts/2026-06-01.md",
+    "media/2026-06-01 crawlspace ver1 demo1.mp3",
     "index.md",
+    "test'.md",
+    "posts/cyberlucifolium.md",
+    "posts/parksville.md",
     "media/Pasted image 20260527162253.png",
-    "posts/the first kaitwillows album.md",
-    "posts/parksville.md",
+    "posts/the first kaitwillows album (2012).md",
     "posts/eumidion - small for you (ft. kaitwillows).md",
-    "posts/parksville.md",
     "media/Pasted image 20260527002858.png",
     "media/2025-10-01_parksville/visual/uhh.mkv",
     "media/2025-10-01_parksville/demos/1.0 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.mp3",
@@ -214,7 +220,6 @@
     "media/2025-10-01_parksville/stems/drums.flac",
     "media/2025-10-01_parksville/stems/bass.flac",
     "media/2025-10-01_parksville/smaller cover.jpg",
-    "media/2025-10-01_parksville/visual.mp4",
     "media/2025-10-01_parksville/visual/Bark001_4K-PNG/Bark001_4K-PNG_Roughness.png",
     "media/2025-10-01_parksville/visual/Bark001_4K-PNG/Bark001_4K-PNG_NormalGL.png",
     "media/2025-10-01_parksville/visual/Bark001_4K-PNG/Bark001_4K-PNG_NormalDX.png",
